@@ -1,0 +1,61 @@
+.container{
+  height: 700px;
+  margin-top: 50px;
+  box-shadow: 23px 37px 40px 17px rgba(0,0,0,0.1);
+}
+.dimensionwidth{
+  width: 33%  !important;
+}
+.thilak{
+  background-color: aqua;
+}
+.column1{
+  background-color: bisque;
+}
+.secondline{
+  margin-top: 20px;
+}
+
+.sathish{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 101%;
+  width: 105%;
+}
+.imagewidth{
+  display: flex;
+  align-items: center;
+  background-color: rgb(255, 238, 238);
+
+}
+.formwidth{
+  background-color: rgb(235, 215, 209);
+}
+.inputcheck{
+  background-color: cadetblue;
+}
+.formcheckbox{
+  display: flex;
+}
+
+.align{
+  margin-left: 10px;
+  padding-top: 20px;
+  margin-right: 20px;
+}
+.palign{
+  font-size: 17px;
+}
+/* .newone{
+  height: 700px;
+} */
+.but2{
+  height:35px;
+}
+.but1{
+  height:35px;
+}
+.but3{
+  height:35px;
+}
